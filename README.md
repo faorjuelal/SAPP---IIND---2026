@@ -49,7 +49,7 @@ Periodo académico **2026-I**
 
 ## 📊 Distribución de la evaluación
 
-* **Quices:** 40%
+* **Quices:** 30%
 * **Taller 1:** 10%
 * **Taller 2:** 10%
 * **Taller 3:** 10%
